@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+.logo{
+    margin-right: auto;
+    padding-left: 10px;
+    color: white;
+    flex-grow: 1;
+}
+a{
+    color: azure;
+    text-decoration: none;
+    margin-left: 12px;
+    font-size: 18px;
+    padding: 10px;
+}
+a:hover{
+    background-color: orange;
+}
